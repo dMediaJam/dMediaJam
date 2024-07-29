@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dMediaJam
-- 👀 I’m interested in ... this is my work github account
+- 👀 This is not my primary account.
 - 🌱 I’m currently learning everything, lol.
-- 💞️ I’m looking to collaborate on complex project
-- 📫 How to reach me. Dwayne Jamieson
+- 💞️ I use this account when a task is unlrelated to my other account
+- 📫 You can also reach me at www.dwaynejamieson.com
 
 <!---
 dMediaJam/dMediaJam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
